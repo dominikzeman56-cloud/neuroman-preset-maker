@@ -1,0 +1,14 @@
+node_modules
+.vercel
+.tanstack
+artifacts
+screenshots
+attachments
+.grok
+.node_modules.lock
+dist
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
